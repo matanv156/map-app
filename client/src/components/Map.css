@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap");
+
+.map-wrapper {
+  width: 100%;
+  height: 100%;
+  flex: 1;
+}
+
+.map-container {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.leaflet-container {
+  width: 100% !important;
+  height: 100% !important;
+  background: #e5e3df;
+}
+
+.custom-icon {
+  font-family:
+    "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", sans-serif;
+}
