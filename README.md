@@ -178,14 +178,3 @@ Backend:
 cd server/MapApp.Api
 dotnet build
 ```
-
-### Code Quality
-
-- TypeScript strict mode enabled
-- ESLint for frontend linting
-- Clean architecture with separation of concerns
-- No console logs in production code
-
-## License
-
-This project is part of an interview task demonstration.
